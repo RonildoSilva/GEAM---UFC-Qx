@@ -15,5 +15,6 @@ Alguns trexos de códigos para estudo, manipulação de imagens, datasets, leitu
 - Combinacao de imagens
 
 ## GEAM ML Snippets
+- Dataset MNIST (CSV) Download: [MNIST in CSV - Kaggle](https://www.kaggle.com/oddrationale/mnist-in-csv "MNIST in CSV - Kaggle")
 
 
